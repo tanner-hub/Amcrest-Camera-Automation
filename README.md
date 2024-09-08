@@ -1,5 +1,8 @@
 # Amcrest-Camera-Automation
 
+ffplay rtsp://username:password@ip:port
+ffplay rtsp://username:password@ip:port
+
 from amcrest import AmcrestCamera
 import time, sys
 
